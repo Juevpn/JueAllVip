@@ -19,7 +19,7 @@
 
 {
          "name": "TH-VIP-004",
-         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/AKZ-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/AKZ-4.ovpn"
       },
 
 {
@@ -28,14 +28,25 @@
       },
 
 {
+         "name": "TH-VIP-006",
+         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/AKZ-2.ovpn"
+      },
+
+
+{
+         "name": "TH-VIP-007",
+         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/AKZ-7.ovpn"
+      },
+
+{
          "name": "TH-GAME-01",
-         "url": "https://raw.githubusercontent.com/GamerVPN/LikeVPN/main/AKZ-G-1.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/AKZ-GAME-01.ovpn"
       }
 
 
 
    ],
-"message":"17 August 2023\n\n•Version:7\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : AungKoZin\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"31/05/2023\n\n•Version:16\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : AungKoZin\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"✅Add New VIP✅" ,
-   "version": 7
+   "version": 16
 }
